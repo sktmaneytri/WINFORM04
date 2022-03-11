@@ -1,0 +1,14 @@
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\bin\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.exe.config
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\bin\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.exe
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\bin\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.pdb
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.csproj.AssemblyReference.cache
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN_BUOI1.Form1.resources
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN_BUOI1.Properties.Resources.resources
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.csproj.GenerateResource.cache
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.csproj.CoreCompileInputs.cache
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.exe
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN-BUOI1.pdb
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN_BUOI1.MainForm01.resources
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN_BUOI1.AddStudentForm.resources
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN_BUOI1.SignUpForm.resources
+C:\Users\TRI\Desktop\helloworld\WindowsPrograming\NguyenMinhTri_20110422_LOGIN-BUOI1\obj\Debug\NguyenMinhTri_20110422_LOGIN_BUOI1.ForgetPassword.resources
